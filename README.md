@@ -1,5 +1,5 @@
 # Color-Palette Extractor
-#### Video Demo: [<URL HERE>](https://youtu.be/Mj71CkwLdmE)
+#### Video Demo: https://youtu.be/Mj71CkwLdmE
 
 #### Description:
 The **Image Color-Palette Extractor** is a Python-based command-line application designed to analyze images and extract their dominant colors. It presents these colors in a visually simplified palette format, paired with chosen color-code-format (hex or rgb). This project utilizes various Python libraries, including Pillow for image processing and sci-kit learn for color clustering, to create an easy way to generate color palettes from images. There is a threshold variable, which allows users to decide how unique each color must be within the palette.
